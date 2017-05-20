@@ -10,6 +10,8 @@
 
 !*.txt
 !*.md
+!*.jpg
+!*.java
 
 
 # MAC HIDDEN FILES
